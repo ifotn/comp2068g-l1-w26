@@ -7,3 +7,5 @@ If you download and unzip this repo, you will be missing the dependencies as <st
 `npm run build`
 ## Running a JavaScript file using Node
 `node dist/{fileName}.js`
+## Lesson 2 Commands
+`npm i express`

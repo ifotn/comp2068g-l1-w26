@@ -19,6 +19,6 @@ fs_1.default.readFile('drinks.txt', 'utf8', (err, fileContents) => {
     }
     else {
         console.log(fileContents);
-        console.log('We drank this');
     }
 });
+console.log('We drank this');
