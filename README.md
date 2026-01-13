@@ -9,7 +9,11 @@ If you download and unzip this repo, you will be missing the dependencies as <st
 `node dist/{fileName}.js`
 ## Lesson 2 Commands
 `npm i express`
+
 `npm i ts-node --save-dev` - Dev dependency, not needed for runtime
+
 `npm i nodemon -g` - global install, not part of specific project
+
 `npm i @types/express --save-dev` - Run express TS directly in dev mode
+
 `npm run dev` - run TS in dev mode w/nodemon watching for changes and auto-restarting
